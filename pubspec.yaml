@@ -1,0 +1,14 @@
+name: session_hub
+description: A staff session launcher for COPS, Appco, Tricolab, and Greti.
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
